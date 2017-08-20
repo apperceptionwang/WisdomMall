@@ -1,0 +1,17 @@
+F:\code\WisdomMall\WisdomMall\bin\Debug\WisdomMall.exe.config
+F:\code\WisdomMall\WisdomMall\bin\Debug\WisdomMall.exe
+F:\code\WisdomMall\WisdomMall\bin\Debug\WisdomMall.pdb
+F:\code\WisdomMall\WisdomMall\obj\Debug\WisdomMall.csprojResolveAssemblyReference.cache
+F:\code\WisdomMall\WisdomMall\obj\Debug\WisdomMall.Form1.resources
+F:\code\WisdomMall\WisdomMall\obj\Debug\WisdomMall.Properties.Resources.resources
+F:\code\WisdomMall\WisdomMall\obj\Debug\WisdomMall.csproj.GenerateResource.Cache
+F:\code\WisdomMall\WisdomMall\obj\Debug\WisdomMall.exe
+F:\code\WisdomMall\WisdomMall\obj\Debug\WisdomMall.pdb
+F:\code\WisdomMall\WisdomMall\bin\Debug\SM_DB.mdf
+F:\code\WisdomMall\WisdomMall\bin\Debug\SM_DB_log.ldf
+F:\code\WisdomMall\WisdomMall\obj\Debug\WisdomMall.AddRegister.resources
+F:\code\WisdomMall\WisdomMall\obj\Debug\WisdomMall.ProductInfo.resources
+F:\code\WisdomMall\WisdomMall\obj\Debug\WisdomMall.ShelfInfo.resources
+F:\code\WisdomMall\WisdomMall\obj\Debug\WisdomMall.InStock.resources
+F:\code\WisdomMall\WisdomMall\obj\Debug\WisdomMall.EditProduct.resources
+F:\code\WisdomMall\WisdomMall\obj\Debug\WisdomMall.ShelfTreeView.resources
